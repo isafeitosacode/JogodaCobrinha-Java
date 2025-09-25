@@ -7,7 +7,7 @@ O jogador controla a cobra dentro de uma grade (20x10), movimentando-a com as te
 O objetivo é comer a comida (X) para crescer e acumular pontos.
 O jogo termina quando a cobra bate nas paredes ou em si mesma.
 
-#🎮 Como jogar
+🎮 Como jogar
 
 W → cima
 
